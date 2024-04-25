@@ -4,6 +4,9 @@
 
 //added from main..
 int main(){
+    cout<<"Hello World";
+    cout<<"Factorial of number 9 is: ";
+    cout<< calculateFactorial(9)<<endl;
     cout<<"Hello World"; 
     cout<<"Fibonacii of 11 is: " ;
     cout<<calculateFibonacci(10)<<endl;
