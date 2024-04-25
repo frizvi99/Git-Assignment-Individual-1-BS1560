@@ -3,6 +3,8 @@
 //added from main..
 int main(){
     cout<<"Hello World"; 
+    cout<<"Fibonacii of 10 is: " ;
+    cout<<calculateFibonacci(10)<<endl;
 }
 
 // Added from feature-branch
